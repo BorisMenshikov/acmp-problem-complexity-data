@@ -1,0 +1,4 @@
+*.csv text
+*.txt text
+.gitattributes text
+LICENSE text
